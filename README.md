@@ -14,7 +14,7 @@ I'm current taking a Bachelor's degree in Economics at the Universidade Estadual
 **Skills I'm developing:** Python, SQL, Data Science Projects Management, Machine Learning, Mathematical Optmization, Financial Portfolio Management, Negotiation Techniques.
 
 **Links:**
-* [LinkedIn](https://bityli.com/P1Wtm)
+* [LinkedIn](https://www.linkedin.com/in/kattson-bastos-07b07a194/)
 
 
 ## Projects:
