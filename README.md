@@ -5,7 +5,7 @@
 </p>
 
 # Kattson Bastos
-<sub>Student* at the Universidade Estadual do Sudoeste da Bahia and *student researcher* at the Grupo de Pesquisa em Economia, Meio Ambiente e Inovação</sub>
+<sub>*Student* at the Universidade Estadual do Sudoeste da Bahia and *student researcher* at the Grupo de Pesquisa em Economia, Meio Ambiente e Inovação</sub>
 
 As a beginner in Data Science, I aim to combine analytical skills, ability to work in team environments and negotiation skills. Starting the study in Data Science and Financial Markets, I want to develop a critical thinking and problem-solving skills.
 
