@@ -20,7 +20,7 @@ I'm current taking a Bachelor's degree in Economics at the Universidade Estadual
 ## Projects:
 Take a look at the projects I'm working on:
 
-* **Eleições Municipais de 2020: Análise Exploratória do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba - ** https://bit.ly/2L2cMwy
+* **Eleições Municipais de 2020: Análise Exploratória do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba - ** _to do_
 
 ---
 
