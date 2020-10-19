@@ -21,7 +21,6 @@ I'm current taking a Bachelor's degree in Economics at the Universidade Estadual
 Take a look at the projects I'm working on:
 
 * **Eleições Municipais de 2020: Análise Exploratória do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba -** https://github.com/KattsonBastos/eleicoes_vca_2020
-* **Rossmann Store Sales (Curso Data Science em Produção) -** https://github.com/KattsonBastos/DataScience_Em_Producao
 ---
 
 
