@@ -4,7 +4,7 @@
   <img src="banners.png" >
 </p>
 <p align="right">
-  <font size="1">Image License: https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt</font>
+  <font size="0.5">Image License: https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt</font>
     </p>
 
 # Kattson Bastos
