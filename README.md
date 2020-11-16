@@ -4,6 +4,7 @@
   <img src="banners.png" >
 </p>
 <p align="left" style="color:black;font-size:12px;">image credit: [LinkedIn](linkedin.com/in/kattson-bastos-07b07a194/)</p>
+
 # Kattson Bastos
 <sub>*Student* at the Universidade Estadual do Sudoeste da Bahia and *student researcher* at the Grupo de Pesquisa em Economia, Meio Ambiente e Inovação</sub>
 
