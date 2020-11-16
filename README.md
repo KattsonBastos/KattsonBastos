@@ -3,7 +3,7 @@
 <p align="center">
   <img src="banners.png" >
 </p>
-<sub>[LinkedIn](linkedin.com/in/kattson-bastos-07b07a194/)</sub>
+
 # Kattson Bastos
 <sub>*Student* at the Universidade Estadual do Sudoeste da Bahia and *student researcher* at the Grupo de Pesquisa em Economia, Meio Ambiente e Inovação</sub>
 
