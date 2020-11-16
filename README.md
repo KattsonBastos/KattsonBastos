@@ -3,7 +3,9 @@
 <p align="center">
   <img src="banners.png" >
 </p>
-<p align="right" style="color:black;font-size:0.5px;">Image License: https://github.com/KattsonBastos/eleicoes_vca_2020</p>
+<p align="right">
+  <font size="1">Image License: https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt</font>
+    </p>
 
 # Kattson Bastos
 <sub>*Student* at the Universidade Estadual do Sudoeste da Bahia and *student researcher* at the Grupo de Pesquisa em Economia, Meio Ambiente e Inovação</sub>
