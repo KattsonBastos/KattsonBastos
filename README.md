@@ -1,11 +1,8 @@
-[![author](https://img.shields.io/badge/author-KattsonBastos-red.svg)](https://linkedin.com/in/kattson-bastos-07b07a194/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/issues)[![Image Licence](https://img.shields.io/badge/image-licence-lighblue.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt)
+[![author](https://img.shields.io/badge/author-KattsonBastos-red.svg)](https://linkedin.com/in/kattson-bastos-07b07a194/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/issues)[![Image License](https://img.shields.io/badge/Banner-License-wine.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt)
 
 <p align="center">
   <img src="banners.png" >
 </p>
-<p align="right">
-  <font size="0.5">Image License: https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt</font>
-    </p>
 
 # Kattson Bastos
 <sub>*Student* at the Universidade Estadual do Sudoeste da Bahia and *student researcher* at the Grupo de Pesquisa em Economia, Meio Ambiente e Inovação</sub>
