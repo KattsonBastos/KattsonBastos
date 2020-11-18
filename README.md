@@ -11,7 +11,7 @@ As a beginner in Data Science, I aim to combine soft and hard skills, such as ab
 
 I'm current taking a Bachelor's degree in Economics at the Universidade Estadual do Sudoeste da Bahia (State University of Southwest Bahia) and I'm a student researcher at the Grupo de Pesquisa em Economia Meio ambiente e Inovação (Research Group in Economics, Environment and Innovation) at the same university.
 
-**Skills I'm developing:** Python, SQL, Data Science Projects Management, Machine Learning, Mathematical Optmization, Financial Portfolio Management, Negotiation Techniques.
+**Skills I'm developing:** Python, R, SQL, Data Science Projects Management, Machine Learning, Mathematical Optmization, Financial Portfolio Management, Negotiation Techniques.
 
 **Links:**
 * [LinkedIn](linkedin.com/in/kattson-bastos-07b07a194/)
@@ -20,7 +20,9 @@ I'm current taking a Bachelor's degree in Economics at the Universidade Estadual
 ## Projects:
 Take a look at the projects I'm working on:
 
+* **German Credit Risk Analysis (UCI Dataset) -** https://github.com/KattsonBastos/german_credit_risk_analysis
 * **Eleições Municipais de 2020: Análise do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba -** https://github.com/KattsonBastos/eleicoes_vca_2020
+
 ---
 
 
