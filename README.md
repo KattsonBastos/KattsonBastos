@@ -94,6 +94,9 @@ I'm current taking a Bachelor's degree in Economics at the Universidade Estadual
     </tr>
    </tbody>
 </table>
+
+This readme was created based on this one: https://github.com/jorgebarrosmedeiros/jorgebarrosmedeiros (The last time I saw: November, 28, 2020.)
+
 ---
 
 
