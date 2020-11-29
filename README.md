@@ -21,6 +21,7 @@ I'm current taking a Bachelor's degree in Economics at the Universidade Estadual
 Take a look at the projects I'm working on:
 
 * **Credit Risk Analysis (UCI Dataset) -** https://github.com/KattsonBastos/credit_risk_analysis
+* **Brazilian's Exame Nacional de Desempenho dos Estudantes* (ENADE): an analysis of the state of Bahia in 2018 -** https://github.com/KattsonBastos/bahia_enade18_analysis
 * **Eleições Municipais de 2020: Análise do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba -** https://github.com/KattsonBastos/eleicoes_vca_2020
 
 ---
