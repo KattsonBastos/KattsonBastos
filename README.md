@@ -11,18 +11,31 @@ As a beginner in Data Science, I aim to combine soft and hard skills, such as ab
 
 I'm current taking a Bachelor's degree in Economics at the Universidade Estadual do Sudoeste da Bahia (State University of Southwest Bahia) and I'm a student researcher at the Grupo de Pesquisa em Economia Meio ambiente e Inovação (Research Group in Economics, Environment and Innovation) at the same university.
 
-**Skills I'm developing:** Python, R, SQL, Data Science Projects Management, Machine Learning, Mathematical Optmization, Financial Portfolio Management, Negotiation Techniques.
+**Skills I'm developing:** 
+ - Python
+ - R
+ - SQL
+ - Data Science Projects Management
+ - Machine Learning
+ - Mathematical Optmization
+ - Financial Portfolio Management
+ - Negotiation Techniques
 
 **Links:**
-* [LinkedIn](linkedin.com/in/kattson-bastos-07b07a194/)
 
+* [![Linkedin Badge](https://img.shields.io/badge/-KattsonBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/kattson-bastos-07b07a194/)](linkedin.com/in/kattson-bastos-07b07a194/)
+* [![Gmail Badge](https://img.shields.io/badge/-kattsonbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kattsonbastos@gmail.com)](mailto:kattsonbastos@gmail.com)
 
 ## Projects:
-Take a look at the projects I'm working on:
 
-* **Credit Risk Analysis (UCI Dataset) -** https://github.com/KattsonBastos/credit_risk_analysis
-* **Brazilian's Exame Nacional de Desempenho dos Estudantes (ENADE): an analysis of the state of Bahia in 2018 -** https://github.com/KattsonBastos/bahia_enade18_analysis
-* **Eleições Municipais de 2020: Análise do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba -** https://github.com/KattsonBastos/eleicoes_vca_2020
+### [Credit Risk Analysis (UCI Dataset)](https://github.com/KattsonBastos/credit_risk_analysis)
+  * Repository: https://github.com/KattsonBastos/credit_risk_analysis
+
+### [Brazilian's Exame Nacional de Desempenho dos Estudantes (ENADE): an analysis of the state of Bahia in 2018](https://github.com/KattsonBastos/bahia_enade18_analysis)
+  * Repository: https://github.com/KattsonBastos/bahia_enade18_analysis
+  
+### [Eleições Municipais de 2020: Análise do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba](https://github.com/KattsonBastos/eleicoes_vca_2020)
+  * Repository: https://github.com/KattsonBastos/eleicoes_vca_2020
 
 ---
 
