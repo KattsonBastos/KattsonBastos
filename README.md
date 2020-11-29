@@ -87,6 +87,10 @@ I'm current taking a Bachelor's degree in Economics at the Universidade Estadual
         <span>Flask</span><br><br>
         <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
       </td>
+      <td width="25%" align="center">
+        <span>Shell Scripting</span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
+      </td>
     </tr>
    </tbody>
 </table>
