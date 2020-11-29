@@ -23,7 +23,7 @@ I'm current taking a Bachelor's degree in Economics at the Universidade Estadual
 
 **🔗  Links 🔗 **
 
-* [![Linkedin Badge](https://img.shields.io/badge/-KattsonBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/kattson-bastos-07b07a194/)](linkedin.com/in/kattson-bastos-07b07a194/)
+* [![Linkedin Badge](https://img.shields.io/badge/-KattsonBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kattson-bastos-07b07a194/)](https://www.linkedin.com/in/kattson-bastos-07b07a194/)
 * [![Gmail Badge](https://img.shields.io/badge/-kattsonbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kattsonbastos@gmail.com)](mailto:kattsonbastos@gmail.com)
 
 ## Projects:
