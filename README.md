@@ -9,7 +9,7 @@
 
 As a beginner in Data Science, I aim to combine soft and hard skills, such as ability to work in team environments, negotiation techniques, Python programming, Data Base management and Machine Learning modeling. Starting the study in Data Science and Financial Markets, I want to develop a critical thinking and problem-solving skills.
 
-I'm current taking a Bachelor's degree in Economics at the Universidade Estadual do Sudoeste da Bahia (State University of Southwest Bahia) and I'm a student researcher at the Grupo de Pesquisa em Economia Meio ambiente e Inovação (Research Group in Economics, Environment and Innovation) at the same university.
+I'm currently taking a Bachelor's degree in Economics at the Universidade Estadual do Sudoeste da Bahia (State University of Southwest Bahia) and I'm a student researcher at the Grupo de Pesquisa em Economia Meio ambiente e Inovação (Research Group in Economics, Environment and Innovation) at the same university.
 
 🎯 **Skills I'm developing**
  - Python
