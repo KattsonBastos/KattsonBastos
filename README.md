@@ -26,16 +26,21 @@ I'm currently taking a Bachelor's degree in Economics at the Universidade Estadu
 * [![Linkedin Badge](https://img.shields.io/badge/-KattsonBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kattson-bastos-07b07a194/)](https://www.linkedin.com/in/kattson-bastos-07b07a194/)
 * [![Gmail Badge](https://img.shields.io/badge/-kattsonbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kattsonbastos@gmail.com)](mailto:kattsonbastos@gmail.com)
 
-## Projects:
+## Projects: 
 
-### [Credit Risk Analysis (UCI Dataset)](https://github.com/KattsonBastos/credit_risk_analysis)
-  * Repository: https://github.com/KattsonBastos/credit_risk_analysis
+
 
 ### [Brazilian's Exame Nacional de Desempenho dos Estudantes (ENADE): an analysis of the state of Bahia in 2018](https://github.com/KattsonBastos/bahia_enade18_analysis)
   * Repository: https://github.com/KattsonBastos/bahia_enade18_analysis
-  
+
+### [Rossmann Store: forecasting sales](https://github.com/KattsonBastos/rossmann_sales_prediction)
+  * Repository: https://github.com/KattsonBastos/rossmann_sales_prediction
+
 ### [Eleições Municipais de 2020: Análise do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba](https://github.com/KattsonBastos/eleicoes_vca_2020)
   * Repository: https://github.com/KattsonBastos/eleicoes_vca_2020
+
+### [Credit Risk Analysis (UCI Dataset)](https://github.com/KattsonBastos/credit_risk_analysis)
+  * Repository: https://github.com/KattsonBastos/credit_risk_analysis
 
 ---
 
