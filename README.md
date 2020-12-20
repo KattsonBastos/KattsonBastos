@@ -34,7 +34,7 @@ I'm currently taking a Bachelor's degree in Economics at the Universidade Estadu
 ### [Brazilian's Exame Nacional de Desempenho dos Estudantes (ENADE): an analysis of the state of Bahia in 2018](https://github.com/KattsonBastos/bahia_enade18_analysis)
   * Repository: https://github.com/KattsonBastos/bahia_enade18_analysis
 
-### [Eleições Municipais de 2020: Análise do Perfil dos Candidatso Eleitorais de Vitória da Conquista, Ba](https://github.com/KattsonBastos/eleicoes_vca_2020)
+### [Eleições Municipais de 2020: Análise do Perfil dos Candidatos Eleitorais de Vitória da Conquista, Ba](https://github.com/KattsonBastos/eleicoes_vca_2020)
   * Repository: https://github.com/KattsonBastos/eleicoes_vca_2020
 
 ---
