@@ -28,7 +28,7 @@ I'm currently taking a Bachelor's degree in Economics at the Universidade Estadu
 
 ## Projects: 
 
-### [Rossmann Store: Forecasting Sales (in progress)](https://github.com/KattsonBastos/rossmann_sales_prediction)
+### [ROSSMANN Sales Forecasting: An End-to-End Data Science Project Using Machine Learning for Prediction (in progress)](https://github.com/KattsonBastos/rossmann_sales_prediction)
   * Repository: https://github.com/KattsonBastos/rossmann_sales_prediction
 
 ### [Brazilian's Exame Nacional de Desempenho dos Estudantes (ENADE): an analysis of the state of Bahia in 2018](https://github.com/KattsonBastos/bahia_enade18_analysis)
