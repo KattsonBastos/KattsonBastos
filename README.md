@@ -28,6 +28,9 @@ I'm currently taking a Bachelor's degree in Economics at the Universidade Estadu
 
 ## Projects: 
 
+### [Health Insurance Cross Sell: making the company to sell more with Machine Learning](https://github.com/KattsonBastos/health_insurance_cross_sell) (currently working)
+  * Repository: https://github.com/KattsonBastos/health_insurance_cross_sell
+
 ### [ROSSMANN Sales Forecasting: An End-to-End Data Science Project Using Machine Learning for Sales Prediction](https://github.com/KattsonBastos/rossmann_sales_prediction)
   * Repository: https://github.com/KattsonBastos/rossmann_sales_prediction
 
