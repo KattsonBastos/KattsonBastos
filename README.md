@@ -15,7 +15,7 @@ I'm studying Data Science since semptember of 2020 and I aim to combine soft and
 
 In this journey, I'm developing solutions for important business problems, such as sales prediction and prioritization of customers for cross-selling. The details of each solution are described in the projects below.
 
-🎯 **Skills I'm developing**
+### 🎯 **Skills I'm developing**
 
 **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, and Big Query.
 
@@ -30,7 +30,7 @@ In this journey, I'm developing solutions for important business problems, such 
 **Machine Learning Deployment:** AWS Cloud and Google Cloud Platform (GCP), and Heroku.
 
 
-🔗 **Links**
+### 🔗 **Links**
 
 * [![Linkedin Badge](https://img.shields.io/badge/-KattsonBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kattson-bastos-07b07a194/)](https://www.linkedin.com/in/kattson-bastos-07b07a194/)
 * [![Gmail Badge](https://img.shields.io/badge/-kattsonbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kattsonbastos@gmail.com)](mailto:kattsonbastos@gmail.com)
