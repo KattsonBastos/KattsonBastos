@@ -42,7 +42,7 @@ In this journey, I'm developing solutions for important business problems, such 
 <a href="https://github.com/KattsonBastos/rossmann_sales_prediction">
 	<img src="https://www.rossmann.de/dam/jcr:f83a6bfd-e46c-4063-844e-59ffa529ed80/Buehne_Startseite_Ueber_uns.2017-01-11-08-36-49.jpg" alt="drawing" align="right" width="25%"  height="120"/>
 </a>
-> <p>Building an end-to-end solution for a six weeks sales forecast of a pharmacy chain with Machine Learning. The predictions can be accessed by a bot on Telegram</p>
+> <p>Building an end-to-end solution for a six weeks sales forecast of a pharmacy chain using Machine Learning. The predictions can be accessed by a bot on Telegram.</p>
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
