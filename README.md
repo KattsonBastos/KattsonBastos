@@ -23,7 +23,7 @@ In this journey, I'm developing solutions for important business problems, such 
 
 **Development:** Git, Scrum, Lean Analytics, and Linux. 
 
-**Data Vizualization:** Tableau, Power BI,  Metabase and Caravel.
+**Data Vizualization:** Tableau and Power BI.
 
 **Machine Learning Modeling:** Classification, Regression, Clustering, and Time Series. 
 
