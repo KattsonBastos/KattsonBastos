@@ -23,11 +23,11 @@ In this journey, I'm developing solutions for important business problems, such 
 
 **Development:** Git, Scrum, Lean Analytics, and Linux. 
 
-**Data Vizualization:** Tableau and Power BI.
+**Data Vizualization:** Power BI.
 
 **Machine Learning Modeling:** Classification, Regression, Clustering, and Time Series. 
 
-**Machine Learning Deployment:** AWS Cloud and Google Cloud Platform (GCP), and Heroku.
+**Machine Learning Deployment:** AWS Cloud, and Heroku.
 
 
 ### 🔗 **Links**
