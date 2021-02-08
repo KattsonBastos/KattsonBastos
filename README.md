@@ -48,10 +48,19 @@ In this journey, I'm developing solutions for important business problems, such 
 
 <strong><a href="https://github.com/KattsonBastos/health_insurance_cross_sell">2. Prioritizing Customers for Cross-Selling </a>(Ongoing)</strong>
 <br>
-<a href="https://github.com/KattsonBastos/health_insurance_cross_selln">
+<a href="https://github.com/KattsonBastos/health_insurance_cross_sell">
 	<img src="https://github.com/KattsonBastos/health_insurance_cross_sell/blob/main/imgs/banner.jpg" alt="drawing" align="right" width="25%" height="120"/>
 </a>
 > <p>Predicting whether or not the customer would be interested in auto insurance so the sales can be optimized. </p>
+> <p>Skills: Machine Learning, Heroku, API, Streamlit</p>
+<br>
+
+<strong><a href="https://github.com/KattsonBastos/cardio_disease_detection">3. Cardiovascular Disease Detection </a>(Ongoing)</strong>
+<br>
+<a href="https://github.com/KattsonBastos/cardio_disease_detection">
+	<img src="https://github.com/KattsonBastos/cardio_disease_detection/blob/main/imgs/cardio_banner.jpg" alt="drawing" align="right" width="25%" height="120"/>
+</a>
+> <p>Building a Machine Learning Model to detect cardiovascular disease in early stages leverage the diagnostic precision made by health professionals. </p>
 > <p>Skills: Machine Learning, Heroku, API, Streamlit</p>
 <br>
 
