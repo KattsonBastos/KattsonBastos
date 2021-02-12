@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-KattsonBastos-red.svg)](https://linkedin.com/in/kattson-bastos-07b07a194/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/issues) [![Image License](https://img.shields.io/badge/Banner:-Credits-red.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt)
+[![author](https://img.shields.io/badge/author-KattsonBastos-red.svg)](https://linkedin.com/in/kattsonbastos) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/issues) [![Image License](https://img.shields.io/badge/Banner:-Credits-red.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt)
 
 # Kattson Bastos Portfolio
 
@@ -32,7 +32,7 @@ In this journey, I'm developing solutions for important business problems, such 
 
 ### 🔗 **Links**
 
-* [![Linkedin Badge](https://img.shields.io/badge/-KattsonBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kattson-bastos-07b07a194/)](https://www.linkedin.com/in/kattson-bastos-07b07a194/)
+* [![Linkedin Badge](https://img.shields.io/badge/-KattsonBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kattsonbastos)](https://www.linkedin.com/in/kattsonbastos)
 * [![Gmail Badge](https://img.shields.io/badge/-kattsonbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kattsonbastos@gmail.com)](mailto:kattsonbastos@gmail.com)
 
 ## Data Science Projects:
