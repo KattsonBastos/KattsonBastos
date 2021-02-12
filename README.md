@@ -17,13 +17,13 @@ In this journey, I'm developing solutions for important business problems, such 
 
 ### 🎯 **Skills I'm developing**
 
-**Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, and Big Query.
+**Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, Big Query, Hadoop Distributed File System.
 
 **Data Processing and Analysis:** R, Python, and Spark.
 
 **Development:** Git, Scrum, Lean Analytics, and Linux. 
 
-**Data Vizualization:** Power BI.
+**Data Vizualization:** Power BI and Data Studio.
 
 **Machine Learning Modeling:** Classification, Regression, Clustering, and Time Series. 
 
