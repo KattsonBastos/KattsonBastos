@@ -46,7 +46,7 @@ In this journey, I'm developing solutions for important business problems, such 
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
-<strong><a href="https://github.com/KattsonBastos/health_insurance_cross_sell">2. Prioritizing Customers for Cross-Selling </a>(Ongoing)</strong>
+<strong><a href="https://github.com/KattsonBastos/health_insurance_cross_sell">2. Prioritizing Customers for Insurance Cross-Sell </a>(Ongoing)</strong>
 <br>
 <a href="https://github.com/KattsonBastos/health_insurance_cross_sell">
 	<img src="https://github.com/KattsonBastos/health_insurance_cross_sell/blob/main/imgs/banner.jpg" alt="drawing" align="right" width="25%" height="120"/>
