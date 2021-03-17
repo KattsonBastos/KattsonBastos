@@ -37,7 +37,7 @@ In this journey, I'm developing solutions for important business problems, such 
 
 ## Data Science Projects:
 
-<strong><a href="https://github.com/KattsonBastos/rossmann_sales_prediction">1. Rossmann Store Sales Predict</a></strong>
+<strong><a href="https://github.com/KattsonBastos/rossmann_sales_prediction">1. Store Sales Prediction</a></strong>
 <br>
 <a href="https://github.com/KattsonBastos/rossmann_sales_prediction">
 	<img src="https://www.rossmann.de/dam/jcr:f83a6bfd-e46c-4063-844e-59ffa529ed80/Buehne_Startseite_Ueber_uns.2017-01-11-08-36-49.jpg" alt="drawing" align="right" width="25%"  height="120"/>
