@@ -19,7 +19,7 @@ In this journey, I'm developing solutions for important business problems, such 
 
 **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, Big Query.
 
-**Data Processing and Analysis:** R, Python, and Spark.
+**Data Processing and Analysis:** R, and Python.
 
 **Development:** Git, Scrum, Lean Analytics, and Linux. 
 
