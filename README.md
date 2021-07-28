@@ -134,6 +134,10 @@ In this journey, I'm developing solutions for important business problems, such 
         <span>R Project</span><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg">
+      </td>
     </tr>
    </tbody>
 </table>
