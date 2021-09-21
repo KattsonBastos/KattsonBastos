@@ -21,7 +21,7 @@ In this journey, I'm developing solutions for important business problems, such 
 
 **Data Processing and Analysis:** R and Python.
 
-**Development:** Git, Lean Analytics, and Linux. 
+**Development:** Git and Linux. 
 
 **Data Vizualization:** Power BI and Data Studio.
 
