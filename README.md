@@ -101,7 +101,7 @@ In this journey, I'm developing solutions for important business problems, such 
       </td>
       <td width="25%" align="center">
         <span>NumPy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="64px" src="https://numpy.org/doc/stable/_static/numpylogo.svg">
       </td>
     </tr>
     <tr valign="top">
