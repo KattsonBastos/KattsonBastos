@@ -9,25 +9,20 @@ The main objective of this data science personal project portfolio is to demonst
 </p>
 
 # Kattson Bastos
-<sub>*Student* at the Universidade Estadual do Sudoeste da Bahia and *student researcher* at the Grupo de Pesquisa em Economia, Meio Ambiente e Inovação</sub>
+<sub>Data Scientist, taking a Bachelor's degree in Economics and in Software Engineer.</sub>
 
-I'm studying Data Science since semptember of 2020 and I aim to combine soft and hard skills, such as ability to work in team environments, negotiation techniques, Python programming, Data Base management and Machine Learning modeling to solve business problems based on data.
+Currently, trying to develop skills on the Machine Learning lifecycle, going from data collection and analysis to the model monitoring.
 
-In this journey, I'm developing solutions for important business problems, such as sales prediction and prioritization of customers for cross-selling. The details of each solution are described in the projects below.
 
 ### 🎯 **Skills I'm developing**
 
-**Data Collect and Storage:** SQL, MySQL, and SQL Server.
+**Data Collection, Storage, and Processing:** SQL, SQL and NoSQL Databases, Python, PySpark, Scala.
 
-**Data Processing and Analysis:** R and Python.
+**Development:** Git and Linux.
 
-**Development:** Git and Linux. 
+**Cloud:** Azure.
 
-**Data Vizualization:** Power BI and Data Studio.
-
-**Machine Learning Modeling:** Classification, Regression, Clustering, and Time Series. 
-
-**Machine Learning Deployment:** API, Heroku, Flask, Docker.
+**MLOps Tools:** Flask, FastAPI, Docker, Kubernetes, MLFlow, ZenML, KubeFlow.
 
 
 ### 🔗 **Links**
@@ -88,8 +83,8 @@ In this journey, I'm developing solutions for important business problems, such 
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>MySQL</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <span>Spark</span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br>
@@ -98,6 +93,10 @@ In this journey, I'm developing solutions for important business problems, such 
       <td width="25%" align="center">
         <span>Azure</span><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>FastAPI</span><br><br>
+        <img height="64px" src="https://vectorwiki.com/images/i0tvc__fastapi.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -112,6 +111,10 @@ In this journey, I'm developing solutions for important business problems, such 
       <td width="25%" align="center">
         <span>MLFlow</span><br><br>
         <img height="64px" src="https://mlflow.org/images/MLflow-logo-final-white-TM.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
       </td>
     </tr>
    </tbody>
