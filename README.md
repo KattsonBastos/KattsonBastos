@@ -14,7 +14,7 @@ The main objective of this data science personal project portfolio is to demonst
 Currently, trying to develop skills on the Machine Learning lifecycle, going from data collection and analysis to the model monitoring.
 
 
-### 🎯 **Skills I'm developing**
+### 🎯 **Skills and Tools I'm Learning**
 
 **Data Collection, Storage, and Processing:** SQL, SQL and NoSQL Databases, Python, PySpark, Scala.
 
