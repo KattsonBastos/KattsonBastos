@@ -101,12 +101,12 @@ Currently, trying to develop skills on the Machine Learning lifecycle, going fro
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Kubernetes</span><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Docker</span><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg">
+        <span>Kubernetes</span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>MLFlow</span><br><br>
