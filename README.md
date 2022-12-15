@@ -20,7 +20,7 @@ Currently, trying to develop skills on the Machine Learning lifecycle, going fro
 
 **Dev and Ops:** Git, Docker, Python, Kubernetes, Terraform, Linux.
 
-**APIs:** Rest, API Gateway, Flask, FastAPI.
+**APIs:** Rest, API Gateway, Flask, FastAPI, Django.
 
 **Workflow Orchestration:** Airflow, ZenML, KubeFlow.
 
