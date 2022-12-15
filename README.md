@@ -16,13 +16,13 @@ Currently, trying to develop skills on the Machine Learning lifecycle, going fro
 
 ### 🎯 **Skills and Tools I'm Learning**
 
-**Data Collection, Storage, and Processing:** SQL, SQL and NoSQL Databases, Python, PySpark, Scala.
+**Data Engineering:** SQL, SQL and NoSQL Databases, PySpark, Scala, Dbt, Airbyte.
 
-**Development:** Git and Linux.
+**Dev and Ops:** Git, Docker, Python, Kubernetes, Terraform, Linux.
 
-**Cloud:** Azure.
+**APIs:** Rest, API Gateway, Flask, FastAPI.
 
-**MLOps Tools:** Flask, FastAPI, Docker, Kubernetes, MLFlow, ZenML, KubeFlow.
+**Workflow Orchestration:** Airflow, ZenML, KubeFlow.
 
 
 ### 🔗 **Links**
