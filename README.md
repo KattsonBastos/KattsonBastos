@@ -31,7 +31,7 @@ This repo presents some skills and practical projects I've been working on since
 * [![Gmail Badge](https://img.shields.io/badge/-kattsonbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kattsonbastos@gmail.com)](mailto:kattsonbastos@gmail.com)
 
 
-## Data Engineering Projects:
+## Data Engineering:
 
 <strong><a href="https://github.com/KattsonBastos/dataflow-basic-streaming">1. Streaming Pipeline with Apache Beam and Dataflow</a></strong>
 <br>
@@ -52,7 +52,7 @@ This repo presents some skills and practical projects I've been working on since
 > <p>Skills: Airflow, Dbt, Snowflake, Airbyte, Docker</p>
 <br>
 
-## Data Science Projects:
+## Data Science:
 
 <strong><a href="https://github.com/KattsonBastos/rossmann_sales_prediction">1. Store Sales Prediction</a></strong>
 <br>
@@ -81,7 +81,7 @@ This repo presents some skills and practical projects I've been working on since
 > <p>Skills: Machine Learning, Heroku, API, Streamlit</p>
 <br>
 
-## Data Anaysis / Insight Projets:
+## Data Anaysis / Insights:
 <strong><a href="https://github.com/KattsonBastos/bahia_enade18_analysis">1. Education Dataset Analysis (Brazilian ENADE)</a></strong>
 <br>
 <a href="https://github.com/KattsonBastos/bahia_enade18_analysis">
