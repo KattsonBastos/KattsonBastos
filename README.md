@@ -1,34 +1,56 @@
 [![author](https://img.shields.io/badge/author-KattsonBastos-red.svg)](https://linkedin.com/in/kattson-bastos) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/issues) [![Image License](https://img.shields.io/badge/Banner:-Credits-red.svg?style=flat)](https://github.com/KattsonBastos/KattsonBastos/blob/main/Image%20License.txt)
 
-# Kattson Bastos Portfolio
+# Kattson Bastos
 
-The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science
+This repo presents some skills and practical projects I've been working on since I started my journey in the IT and data fields.
+
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
-# Kattson Bastos
-<sub>Data Scientist, taking a Bachelor's degree in Economics and in Software Engineer.</sub>
-
-Currently, trying to develop skills on the Machine Learning lifecycle, going from data collection and analysis to the model monitoring.
+<sub>A Data Lover in the realm of ML and Data Engineering, DevOps and IT in general.</sub>
 
 
-### 🎯 **Skills and Tools I'm Learning**
+<!-- ### 🎯 **Skills**
 
-**Data Engineering:** SQL, SQL and NoSQL Databases, PySpark, Scala, Dbt, Airbyte.
+**Data Engineering:** SQL and NoSQL Databases, Kafka, Dbt, Airbyte.
 
-**Dev and Ops:** Git, Docker, Python, Kubernetes, Terraform, Linux.
+**Dev and Ops:** Git, Docker, Python, Kubernetes, Terraform, ArgoCD.
+
+**ML Engineering:** ZenML, MLFlow, 
 
 **APIs:** Rest, API Gateway, Flask, FastAPI, Django.
 
-**Workflow Orchestration:** Airflow, ZenML, KubeFlow.
+**Workflow Orchestration:** Airflow, KubeFlow. -->
 
 
 ### 🔗 **Links**
 
 * [![Linkedin Badge](https://img.shields.io/badge/-KattsonBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kattson-bastos)](https://www.linkedin.com/in/kattson-bastos)
 * [![Gmail Badge](https://img.shields.io/badge/-kattsonbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kattsonbastos@gmail.com)](mailto:kattsonbastos@gmail.com)
+
+
+## Data Engineering Projects:
+
+<strong><a href="https://github.com/KattsonBastos/dataflow-basic-streaming">1. Streaming Pipeline with Apache Beam and Dataflow</a></strong>
+<br>
+<a href="https://github.com/KattsonBastos/dataflow-basic-streaming">
+	<img src="https://github.com/KattsonBastos/dataflow-basic-streaming/blob/main/images/resources-used.png?raw=trueg" alt="drawing" align="right" width="25%"  height="120"/>
+</a>
+> <p>Building a streaming data pipeline to load real-time users data into Big Query so the marketing and analytics teams can work on products offering and customer segmentation for faster business value generation. </p>
+> <p>Skills: GCP, Dataflow, Apache Beam, Pub/Sub, Terraform, Big Query.</p>
+<br>
+
+<!-- project -->
+<strong><a href="https://github.com/KattsonBastos/modern-data-stack/tree/main/practical-project">2. Daily Covid 19 ELT With Modern Data Stack</a></strong>
+<br>
+<a href="https://github.com/KattsonBastos/modern-data-stack/tree/main/practical-project">
+	<img src="https://github.com/KattsonBastos/modern-data-stack/blob/main/images/architecture.png?raw=true" alt="drawing" align="right" width="25%"  height="120"/>
+</a>
+> <p>Our team was asked to implement a simple ELT pipeline in order to provide daily Covid 19 data to the BI team so they workk on their analytics and take decisions. </p>
+> <p>Skills: Airflow, Dbt, Snowflake, Airbyte, Docker</p>
+<br>
 
 ## Data Science Projects:
 
@@ -44,7 +66,7 @@ Currently, trying to develop skills on the Machine Learning lifecycle, going fro
 <strong><a href="https://github.com/KattsonBastos/health_insurance_cross_sell">2. Prioritizing Customers for Insurance Cross-Sell </a>(Ongoing)</strong>
 <br>
 <a href="https://github.com/KattsonBastos/health_insurance_cross_sell">
-	<img src="https://github.com/KattsonBastos/health_insurance_cross_sell/blob/main/imgs/banner.jpg" alt="drawing" align="right" width="25%" height="120"/>
+	<img src="https://github.com/KattsonBastos/health_insurance_cross_sell/blob/main/imgs/banner.jpg?raw=true" alt="drawing" align="right" width="25%" height="120"/>
 </a>
 > <p>Predicting whether or not the customer would be interested in auto insurance so the sales can be optimized. </p>
 > <p>Skills: Machine Learning, Heroku, API, Streamlit</p>
@@ -53,7 +75,7 @@ Currently, trying to develop skills on the Machine Learning lifecycle, going fro
 <strong><a href="https://github.com/KattsonBastos/cardio_disease_detection">3. Cardiovascular Disease Detection </a>(Ongoing)</strong>
 <br>
 <a href="https://github.com/KattsonBastos/cardio_disease_detection">
-	<img src="https://github.com/KattsonBastos/cardio_disease_detection/blob/main/imgs/cardio_banner.jpg" alt="drawing" align="right" width="25%" height="120"/>
+	<img src="https://github.com/KattsonBastos/cardio_disease_detection/blob/main/imgs/cardio_banner.jpg?raw=true" alt="drawing" align="right" width="25%" height="120"/>
 </a>
 > <p>Building a Machine Learning Model to detect cardiovascular disease in early stages leverage the diagnostic precision made by health professionals. </p>
 > <p>Skills: Machine Learning, Heroku, API, Streamlit</p>
@@ -63,7 +85,7 @@ Currently, trying to develop skills on the Machine Learning lifecycle, going fro
 <strong><a href="https://github.com/KattsonBastos/bahia_enade18_analysis">1. Education Dataset Analysis (Brazilian ENADE)</a></strong>
 <br>
 <a href="https://github.com/KattsonBastos/bahia_enade18_analysis">
-	<img src="https://github.com/KattsonBastos/bahia_enade18_analysis/blob/main/img/banner.png" alt="drawing" align="right" width="25%" height="120"/>
+	<img src="https://github.com/KattsonBastos/bahia_enade18_analysis/blob/main/img/banner.png?raw=true" alt="drawing" align="right" width="25%" height="120"/>
 </a>
 > <p>Analyzing data from a brazilian performance's valuation of students. The analysis is focused on the state of Bahia. </p>
 > <p>Skills: Data Visualization, Data Processing</p>
@@ -76,7 +98,7 @@ Currently, trying to develop skills on the Machine Learning lifecycle, going fro
 > <p>Skills: Data Visualization, Data Processing</p>
 <br>
 
----
+<!-- ---
 ## Skills
 
 <table>
@@ -118,7 +140,7 @@ Currently, trying to develop skills on the Machine Learning lifecycle, going fro
       </td>
     </tr>
    </tbody>
-</table>
+</table> -->
 
 ---
 
